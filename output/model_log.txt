@@ -1,0 +1,183 @@
+NanoGPT_v9_2024-03-03 20:17:25.979797: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-03 20:17:26.156046: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-03 20:17:26.195113: Model initialized.
+NanoGPT_v9_2024-03-03 20:17:26.195113: 0.105665 Million of parameters
+NanoGPT_v9_2024-03-03 20:17:40.191581: Step  0; Train loss 4.356896877288818, Val loss 4.3577423095703125
+NanoGPT_v9_2024-03-03 20:18:46.785737: Step  500; Train loss 2.644794225692749, Val loss 2.639575481414795
+NanoGPT_v9_2024-03-03 20:19:48.783835: Step  1000; Train loss 2.5034286975860596, Val loss 2.51050066947937
+NanoGPT_v9_2024-03-03 20:20:54.906047: Step  1500; Train loss 2.4431819915771484, Val loss 2.456284523010254
+NanoGPT_v9_2024-03-03 20:22:06.083253: Step  2000; Train loss 2.3779730796813965, Val loss 2.3942630290985107
+NanoGPT_v9_2024-03-03 20:23:16.634664: Step  2500; Train loss 2.3502254486083984, Val loss 2.347541332244873
+NanoGPT_v9_2024-03-03 20:24:21.415698: Step  3000; Train loss 2.3323988914489746, Val loss 2.333073377609253
+NanoGPT_v9_2024-03-03 20:25:27.739243: Step  3500; Train loss 2.2942967414855957, Val loss 2.309542179107666
+NanoGPT_v9_2024-03-03 20:26:36.328000: Step  4000; Train loss 2.275515079498291, Val loss 2.2743947505950928
+NanoGPT_v9_2024-03-03 20:27:42.578107: Step  4500; Train loss 2.248788356781006, Val loss 2.2705533504486084
+NanoGPT_v9_2024-03-05 05:24:26.531377: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-05 05:24:26.664471: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-05 05:28:32.156274: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-05 05:28:32.306590: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-05 05:28:32.323563: Model initialized.
+NanoGPT_v9_2024-03-05 05:28:32.342103: 0.105665 Million of parameters
+NanoGPT_v9_2024-03-05 05:28:47.607906: Step  0; Train loss 4.181297302246094, Val loss 4.1808013916015625
+NanoGPT_v9_2024-03-05 05:29:54.594217: Step  500; Train loss 2.587899684906006, Val loss 2.600597620010376
+NanoGPT_v9_2024-03-05 05:31:09.111615: Step  1000; Train loss 2.4577226638793945, Val loss 2.4586381912231445
+NanoGPT_v9_2024-03-05 05:32:20.019841: Step  1500; Train loss 2.3919882774353027, Val loss 2.3864400386810303
+NanoGPT_v9_2024-03-05 05:33:30.533890: Step  2000; Train loss 2.3346619606018066, Val loss 2.343733549118042
+NanoGPT_v9_2024-03-05 05:34:40.741112: Step  2500; Train loss 2.3007194995880127, Val loss 2.316727876663208
+NanoGPT_v9_2024-03-05 05:35:53.138129: Step  3000; Train loss 2.268322229385376, Val loss 2.282301425933838
+NanoGPT_v9_2024-03-05 05:37:03.938303: Step  3500; Train loss 2.2264440059661865, Val loss 2.243197202682495
+NanoGPT_v9_2024-03-05 05:38:16.816054: Step  4000; Train loss 2.2058591842651367, Val loss 2.2318756580352783
+NanoGPT_v9_2024-03-05 05:39:32.784905: Step  4500; Train loss 2.1835522651672363, Val loss 2.2129502296447754
+NanoGPT_v9_2024-03-05 05:46:58.207251: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-05 05:46:58.328771: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-05 05:46:58.351692: Model initialized.
+NanoGPT_v9_2024-03-05 05:46:58.352689: 0.105665 Million of parameters
+NanoGPT_v9_2024-03-05 05:47:12.108049: Step  0; Train loss 4.181302070617676, Val loss 4.183063507080078
+NanoGPT_v9_2024-03-05 05:48:30.552453: Step  500; Train loss 2.6210250854492188, Val loss 2.625359535217285
+NanoGPT_v9_2024-03-05 05:49:45.263446: Step  1000; Train loss 2.460665225982666, Val loss 2.4648702144622803
+NanoGPT_v9_2024-03-05 05:51:02.424657: Step  1500; Train loss 2.3775484561920166, Val loss 2.387600898742676
+NanoGPT_v9_2024-03-05 05:52:21.221649: Step  2000; Train loss 2.3427858352661133, Val loss 2.3617730140686035
+NanoGPT_v9_2024-03-05 05:52:47.362212: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-05 05:52:47.641600: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-05 05:52:47.707076: Model initialized.
+NanoGPT_v9_2024-03-05 05:52:47.711063: 0.105665 Million of parameters
+NanoGPT_v9_2024-03-05 05:53:07.372696: Step  0; Train loss 4.181302070617676, Val loss 4.183063507080078
+NanoGPT_v9_2024-03-05 05:54:31.823337: Step  500; Train loss 2.6210250854492188, Val loss 2.625359535217285
+NanoGPT_v9_2024-03-05 05:55:45.033213: Step  1000; Train loss 2.460665225982666, Val loss 2.4648702144622803
+NanoGPT_v9_2024-03-05 05:57:06.077894: Step  1500; Train loss 2.3775484561920166, Val loss 2.387600898742676
+NanoGPT_v9_2024-03-05 05:58:20.807891: Step  2000; Train loss 2.3427858352661133, Val loss 2.3617730140686035
+NanoGPT_v9_2024-03-05 05:59:30.579637: Step  2500; Train loss 2.28867506980896, Val loss 2.304856061935425
+NanoGPT_v9_2024-03-05 06:00:43.122677: Step  3000; Train loss 2.2706713676452637, Val loss 2.2859530448913574
+NanoGPT_v9_2024-03-05 06:01:54.104180: Step  3500; Train loss 2.239614725112915, Val loss 2.2523691654205322
+NanoGPT_v9_2024-03-05 06:03:01.675036: Step  4000; Train loss 2.210040807723999, Val loss 2.217437267303467
+NanoGPT_v9_2024-03-05 06:04:08.999995: Step  4500; Train loss 2.1814489364624023, Val loss 2.2041897773742676
+NanoGPT_v9_2024-03-05 06:05:04.006407: Model optimization completed.
+NanoGPT_v9_2024-03-05 06:05:17.218399: 
+Nof art to he sith hat off if be soy a freabver of Miths henrcpo.
+
+Warritl be orrf it.
+
+YONTIN VANVELNCENG:
+ond thit her ding's sparunged--ut don to is ther kes cooll shet wite the yeey fhas and ot bickent!
+Sim is Ime: than bus  brus ank wilp. Hout neant mevir 'Lor for long: ave voullo!
+If to che it mer hounthes nenty peelstin ya the.
+
+DLI:
+Men daru, be scesiven heave patralod conesse me loix;
+O the my hacy, scangeseb.
+Gised o dey sustsichs ar a wenth is gentso, bertues and doul wof wis feaverie
+NanoGPT_v9_2024-03-05 06:09:04.259934: more.txt file populated with generated text from the model.
+NanoGPT_v9_2024-03-06 05:24:00.837545: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-06 05:24:01.010994: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-06 05:24:01.049256: Model initialized.
+NanoGPT_v9_2024-03-06 05:24:01.051246: 0.105665 Million of parameters
+NanoGPT_v9_2024-03-06 05:24:25.791794: Step  0; Train loss 4.181302070617676, Val loss 4.183063507080078
+NanoGPT_v9_2024-03-06 05:25:36.216545: Model optimization completed.
+NanoGPT_v9_2024-03-06 05:25:49.071974: 
+L: inert,
+NThanCye sowes moithanoueunarf idenaut mtulnevo as I isy, pe,
+
+E:
+Tome bceRyann -bpur e inss thecere; ' hpe; tha'chdhaiVan!
+ONUS hay ber.
+'in?;
+
+
+
+Ther ese mege,
+3ungr kcoveises, und ;d t wt
+I gouerlbithas indwleodof,
+Sd t de,
+Whon.
+
+rendil wh ndootheedreso s w thiunwinod hast-nopu, t arefeto'a, mentan l y bht ablth he I
+VEy,,
+
+.
+A.
+Awisd! no;
+N EB, rsharilne sithe g yrs ur;
+NeS
+&Amho'k:
+xI
+U.
+HYAmy t; myethogohalr i wok,
+CTO t daso, sathe t malicove Iycel. Ises? Ithand, c-Lirlrdit'dor
+NanoGPT_v9_2024-03-06 05:30:00.686718: more.txt file populated with generated text from the model.
+NanoGPT_v9_2024-03-06 05:30:00.742953: ./model/NanoGPT_v9_20240306_053000.pth saved.
+NanoGPT_v9_2024-03-06 05:42:43.591947: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-06 05:42:43.714974: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-06 05:42:43.753951: Model initialized.
+NanoGPT_v9_2024-03-06 05:42:43.755947: 0.917441 Million of parameters
+NanoGPT_v9_2024-03-06 05:53:52.879420: Step  0; Train loss 4.211937427520752, Val loss 4.213187217712402
+NanoGPT_v9_2024-03-06 06:35:33.879133: Step  500; Train loss 2.240736246109009, Val loss 2.2578465938568115
+NanoGPT_v9_2024-03-06 06:44:28.144593: Mini Shakespeare data loaded.
+NanoGPT_v9_2024-03-06 06:44:28.445199: Training and dev sets partitioned.
+NanoGPT_v9_2024-03-06 06:44:28.461993: Model initialized.
+NanoGPT_v9_2024-03-06 06:44:28.461993: 0.083905 Million of parameters
+NanoGPT_v9_2024-03-06 07:17:53.030003: Step  1000; Train loss 1.9312564134597778, Val loss 2.0058414936065674
+NanoGPT_v9_2024-03-06 07:56:45.779302: Step  1500; Train loss 1.7453134059906006, Val loss 1.8882479667663574
+NanoGPT_v11_2024-03-06 08:33:24.553996: Mini Shakespeare data loaded.
+NanoGPT_v11_2024-03-06 08:33:24.901841: Training and dev sets partitioned.
+NanoGPT_v11_2024-03-06 08:33:24.933733: Model initialized.
+NanoGPT_v11_2024-03-06 08:33:24.934730: 0.105409 Million of parameters
+NanoGPT_v11_2024-03-06 08:35:21.554963: Mini Shakespeare data loaded.
+NanoGPT_v11_2024-03-06 08:35:21.911086: Training and dev sets partitioned.
+NanoGPT_v11_2024-03-06 08:35:21.949955: Model initialized.
+NanoGPT_v11_2024-03-06 08:35:21.955936: 0.105409 Million of parameters
+NanoGPT_v11_2024-03-06 08:35:55.852448: Step  0; Train loss 4.176113128662109, Val loss 4.176802158355713
+NanoGPT_v11_2024-03-06 08:37:16.977427: Model optimization completed.
+NanoGPT_v11_2024-03-06 08:37:25.993839: 
+I; evoc
+:
+Theal sses I
+Jz weaitathar-te tedeinne,
+Zpeinfnbe t:
+fert d ton hyesoh I
+I -ou ecs.
+
+Byit inde htwy ilathstonps herishyin, cet ciyd ft.
+Whame yousithee st ma hitharnof; thort nchonl g mat be :
+
+Irt mle qwen nwerrguchi kss thetou hallu mav:os purolt I per; bon jool thasan:
+Thel f it s tourou bhesaf le borragfontisr sow wurs hir f iutouit sousshary o conthepue.
+Anphe whal.
+Dae d mcelrgthitopos se t mrn m shereal acineuisracosond rt l ptryoVSin, ba bnt hopbthoate mnu ir y agetomut arit t 
+NanoGPT_v11_2024-03-06 08:40:39.569715: more.txt file populated with generated text from the model.
+NanoGPT_v11_2024-03-06 08:40:39.607611: ./model/NanoGPT_v11_20240306_084039.pth saved.
+NanoGPT_v9_2024-03-06 08:42:09.551560: Step  2000; Train loss 1.6367788314819336, Val loss 1.8069080114364624
+NanoGPT_v9_2024-03-06 09:21:22.141193: Step  2500; Train loss 1.569481611251831, Val loss 1.753117561340332
+NanoGPT_v9_2024-03-06 10:00:22.613075: Step  3000; Train loss 1.520565390586853, Val loss 1.7056682109832764
+NanoGPT_v9_2024-03-06 10:39:15.970040: Step  3500; Train loss 1.4801830053329468, Val loss 1.6742122173309326
+NanoGPT_v9_2024-03-06 11:18:02.326350: Step  4000; Train loss 1.4487169981002808, Val loss 1.6508673429489136
+NanoGPT_v9_2024-03-06 11:56:58.858910: Step  4500; Train loss 1.426723599433899, Val loss 1.6328462362289429
+NanoGPT_v9_2024-03-06 12:35:44.764272: Step  5000; Train loss 1.403590202331543, Val loss 1.6137536764144897
+NanoGPT_v9_2024-03-06 13:14:32.040814: Step  5500; Train loss 1.3842562437057495, Val loss 1.6063933372497559
+NanoGPT_v9_2024-03-06 13:53:26.819494: Step  6000; Train loss 1.3701092004776, Val loss 1.5876667499542236
+NanoGPT_v9_2024-03-06 14:32:17.821165: Step  6500; Train loss 1.3591920137405396, Val loss 1.5740268230438232
+NanoGPT_v9_2024-03-06 15:11:03.360617: Step  7000; Train loss 1.3438035249710083, Val loss 1.5749636888504028
+NanoGPT_v9_2024-03-06 15:50:02.480848: Step  7500; Train loss 1.3356451988220215, Val loss 1.5631318092346191
+NanoGPT_v9_2024-03-06 16:28:51.612388: Step  8000; Train loss 1.322475790977478, Val loss 1.5611730813980103
+NanoGPT_v9_2024-03-06 17:07:37.519174: Step  8500; Train loss 1.3132567405700684, Val loss 1.554189920425415
+NanoGPT_v9_2024-03-06 17:46:30.457090: Step  9000; Train loss 1.3033791780471802, Val loss 1.549696922302246
+NanoGPT_v9_2024-03-06 18:26:15.716694: Step  9500; Train loss 1.2983253002166748, Val loss 1.5486502647399902
+NanoGPT_v9_2024-03-06 18:55:16.826788: Model optimization completed.
+NanoGPT_v9_2024-03-06 18:55:43.471131: 
+
+GLOUCESTER:
+You are yonat procee, known I may not so:
+Pursoner there stuffer:--and come to my shout
+Jack, what Isabely.
+
+LADY CAPULE:
+Sweet the fails ferich sweet?
+Is not me. Boy, O Fromst, what lose resore?
+Come, comfort me! Inqualied means, that we
+And, traign a parces, royal'd two do't;
+Her shall I greated angrious that them,
+That never in grave long by the ratemon!
+Thou art an one thy will never one sweet,
+So make friend on Speat, it plagued up it,
+But blind summan? the manst thou like our 
+NanoGPT_v9_2024-03-06 19:02:56.723033: more.txt file populated with generated text from the model.
+NanoGPT_v9_2024-03-06 19:02:56.889839: ./model/NanoGPT_v9_20240306_190256.pth saved.
